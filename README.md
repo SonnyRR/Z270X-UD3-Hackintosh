@@ -1,4 +1,6 @@
-# Z270X-UD3-Hackintosh ![tonymacx86 logo](https://www.tonymacx86.com/images/tonymacx86-logo.png)
+<img align="center" src = "https://www.tonymacx86.com/images/tonymacx86-logo.png">
+
+# Z270X-UD3-Hackintosh 
 My Hackintosh repository.
 
 Useful threads for GA-Z270X-UD3:
