@@ -38,6 +38,6 @@ I do not use iGFX, AMD All the way.
 
 # Other
 * SMBIOS : iMac18,1 for < 10.12.6 else use latest iMac18 definitions.
-* Intel Core i7-7700K FakeCPUID : 0x0506e3 (for spoofing before 10.12.6)
-* Intel® HD Graphics 630 : 0x19168086 (for spoofing before 10.12.6)
-
+* Intel Core i7-7700K FakeCPUID : 0x0506e3 (for spoofing before 10.12.6).
+* Intel® HD Graphics 630 : 0x19168086 (for spoofing before 10.12.6).
+* Disable SIP by changing CsrActiveConfig string value to "0x67".
