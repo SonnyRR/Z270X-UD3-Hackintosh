@@ -1,8 +1,9 @@
 <p align="center">
-    <img src = "https://www.tonymacx86.com/images/tonymacx86-logo.png">
+    <img src = "https://www.tonymacx86.com/images/tonymacx86-logo.png"> <br/>
+    <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/MacOS_wordmark_%282017%29.svg/512px-MacOS_wordmark_%282017%29.svg.png">
 </p>
 
-# Z270X-UD3-Hackintosh 
+# Z270X-UD3 Hackintosh 
 My Hackintosh repository.
 
 Useful threads for GA-Z270X-UD3:
@@ -28,7 +29,7 @@ GA-Z270X-UD3 - i7-7700 - GTX 960​](https://www.tonymacx86.com/threads/success-
 * Fast Boot : Enabled
 * Windows 8/10 Features : Other OS
 * Storage Boot Option Control : UEFI
-* VT-d : Disabled
+* VT-d : Disabled/Enabled (if I want virtualization)
 * XHCI Handoff : Enabled (In USB Configuration)
 * DVMT Pre-Allocated : 128M (64M?)
 * ErP : Enabled (Disabled for High Sierra)
