@@ -6,4 +6,10 @@
 
 Backup of EFI Folder.
 
-_TODO_
+What works:
+* Almost everything.
+
+What does **NOT** work:
+* Native motherboard Audio, but could be patched. 
+* IGFx, works with SMBIOS 18.3 and latest version of High Sierra.
+
