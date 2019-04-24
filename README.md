@@ -25,19 +25,19 @@ GA-Z270X-UD3 - i7-7700 - GTX 960​](https://www.tonymacx86.com/threads/success-
 
 📌 Loading optimized default settings are recommended before changing stuff.
  
-* Fast Boot : Disabled
+* Fast Boot : Enabled
 * Windows 8/10 Features : Other OS
 * Storage Boot Option Control : UEFI
 * VT-d : Disabled
 * XHCI Handoff : Enabled (In USB Configuration)
 * DVMT Pre-Allocated : 128M (64M?)
-* ErP : Disabled
+* ErP : Enabled (Disabled for High Sierra)
 * Platform Power Management : Disabled
 
 I do not use iGFX, AMD All the way.
 
 # Other
 * SMBIOS : iMac18,1 for < 10.12.6 else use latest iMac18 definitions.
-* Intel Core i7-7700K FakeCPUID : 0x0506e3 (for spoofing before 10.12.6).
+* Intel Core i7-7700K FakeCPUID : 0x0506E3 (for spoofing before 10.12.6).
 * Intel® HD Graphics 630 : 0x19168086 (for spoofing before 10.12.6).
 * Disable SIP by changing CsrActiveConfig string value to "0x67".
