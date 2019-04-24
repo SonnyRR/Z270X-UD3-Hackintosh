@@ -6,4 +6,12 @@
 
 Backup of EFI Folder and boot USB EFI.
 
-_TODO_
+What works:
+* Ethernet
+* Sleep/Wake/Shutdown
+* Native CPU powermanagement with i7-7700K and SMBIOS 18.3
+* USB 3.0 works (Up to 480Mb/sec)
+* USB 3.1 seems to work but I don't think it matches the max speed.
+
+What does **NOT** work:
+* Native motherboard Audio, but could be patched. 
