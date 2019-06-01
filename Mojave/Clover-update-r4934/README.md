@@ -1,0 +1,1 @@
+Currently I think this is not a stable backup of CLOVER bootloader. It boots fine but there were problems when updating manually from .pkg and had to revert and update through Multibeast 11.3.0.
