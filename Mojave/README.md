@@ -6,9 +6,8 @@
 
 # Mojave 10.14.4 and above.
 
-Backup of EFI Folder and boot USB EFI.
-
 What works:
+* Almost everything OOB with AMD GPU (Haven't noticed something that doesn't work that I need)
 * Ethernet
 * Sleep/Wake/Shutdown
 * Native CPU powermanagement with i7-7700K and SMBIOS 18.3
@@ -16,4 +15,5 @@ What works:
 * USB 3.1 seems to work but I don't think it matches the max speed.
 
 What does **NOT** work:
-* Native motherboard Audio, but could be patched. 
+* Native motherboard Audio, but could be patched.
+* IMessage or whatever, can be fixed.

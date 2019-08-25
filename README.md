@@ -7,8 +7,7 @@
 My Hackintosh repository.
 
 Useful threads for GA-Z270X-UD3:
-* [QuickTime's Kaby Lake i7-7700 Build:
-GA-Z270X-UD3 - i7-7700 - GTX 960​](https://www.tonymacx86.com/threads/success-ga-z270x-ud3-i7-7700-gtx-960-16gb-samsung-evo-1tb.235935/)
+* [QuickTime's Kaby Lake i7-7700 Build: GA-Z270X-UD3 - i7-7700 - GTX 960​](https://www.tonymacx86.com/threads/success-ga-z270x-ud3-i7-7700-gtx-960-16gb-samsung-evo-1tb.235935/)
 
 * [GA-Z270X-UD3 with everything working and on-board video (I5 7600)](https://www.tonymacx86.com/threads/successful-installation-of-sierra-i5-7600-gigabyte-z270x-ud3.215025/)
 
@@ -22,10 +21,17 @@ GA-Z270X-UD3 - i7-7700 - GTX 960​](https://www.tonymacx86.com/threads/success-
 
 * [InsanelyMac Sierra / High Sierra / Mojave on mobos Serie 100 / 200 / 300 / SkyLake / KabyLake / CoffeeLake DSDT GUIDE](https://www.insanelymac.com/forum/topic/321872-guide-sierra-high-sierra-mojave-on-mobos-serie-100-200-300-skylake-kabylake-coffeelake-dsdt/)
 
+# OS Tested
+* macOS High Sierra 10.13.1 (Avoid this and 10.13.0 due to security issues)
+* macOS High Sierra 10.13.6
+* macOS Mojave 10.14.4
+* macOS Mojave 10.14.6
+
 # BIOS / UEFI Settings
 
-📌 Loading optimized default settings are recommended before changing stuff.
+📌 Loading optimized default settings are recommended before changing stuff or see my UEFI profile.
  
+
 * Fast Boot : Enabled
 * Windows 8/10 Features : Other OS
 * Storage Boot Option Control : UEFI
