@@ -1,10 +1,9 @@
 <p align="center">
-    <img src = "https://www.tonymacx86.com/images/tonymacx86-logo.png"> <br/>
     <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/MacOS_wordmark_%282017%29.svg/512px-MacOS_wordmark_%282017%29.svg.png">
 </p>
 
-# Z270X-UD3 Hackintosh 
-My Hackintosh repository.
+# 🍎 Z270X-UD3 Hackintosh 
+A Hackintosh (a portmanteau of "Hack" and "Macintosh") is a computer that runs Apple's Macintosh operating system macOS on computer hardware that is not authorized for the purpose by Apple. This can also include running Macintosh software on hardware it is not originally authorized for. 
 
 Useful threads for GA-Z270X-UD3:
 * [QuickTime's Kaby Lake i7-7700 Build: GA-Z270X-UD3 - i7-7700 - GTX 960​](https://www.tonymacx86.com/threads/success-ga-z270x-ud3-i7-7700-gtx-960-16gb-samsung-evo-1tb.235935/)
